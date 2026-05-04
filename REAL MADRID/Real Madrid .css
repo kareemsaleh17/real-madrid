@@ -1,0 +1,58 @@
+body{ background: url(images/real12.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+.login{
+width: 400px;
+height: 450px;
+position: absolute;
+top: 30%;
+left: 37%;
+box-sizing: border-box;
+padding: 0px 50px;
+background-color: rgba(0, 0, 0, 0.5);
+}
+.login h1{margin: 0;
+padding: 20px 20px;
+text-align: center;
+color: white;
+}
+.login input {
+width: 80%;
+margin: 15px 10px;
+background: white;
+    height: 30px;}
+
+.login label {font-size: 25px;
+color:gold;}
+
+.login button{
+justify-content: center;
+height: 35px;
+font-size: 25px;
+border-radius: 15px;
+background-color: goldenrod;
+}
+h2{font-size: 30px;
+display: inline;
+margin: 20px;
+color: gold;}
+
+
+
+
+    
+
+  
+
+
+
+
+
+
+
+
+
+
+
